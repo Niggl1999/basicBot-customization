@@ -87,8 +87,8 @@
         motd: "Doday is A Day",
         filterChat: true,
         etaRestriction: false,
-        welcome: true,1
-        opLink: "Hallo Welt",
+        welcome: true,
+        opLink: null,
         rulesLink: null,
         themeLink: null,
         fbLink: null,
