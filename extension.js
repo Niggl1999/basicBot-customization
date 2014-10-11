@@ -88,7 +88,7 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,1
-        opLink: "http://bit.ly/NoAlLis", 
+        opLink: null, 
         rulesLink: null,
         themeLink: null,
         fbLink: null,
