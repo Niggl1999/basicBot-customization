@@ -88,7 +88,7 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,1
-        opLink: null,
+        opLink: "Hallo Welt",
         rulesLink: null,
         themeLink: null,
         fbLink: null,
