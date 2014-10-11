@@ -87,15 +87,15 @@
         motd: "Doday is A Day",
         filterChat: true,
         etaRestriction: false,
-        welcome: true,
+        welcome: true,1
         opLink: " http://bit.ly/NoAlLis " ,
         rulesLink: null,
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: ["To view the OverPlayedList type !op "],
-        messageInterval: 5,
+        intervalMessages: ["To view the OverPlayedList type !op ", "SpecialEvents´dates will be publisthed on Twitter"],
+        messageInterval: 1,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
