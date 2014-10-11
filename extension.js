@@ -94,7 +94,7 @@
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: ["To view the OverPlayedList type !op ", "SpecialEvents´dates will be publisthed on Twitter", "User commands: http://bit.ly/NigCom"],
+        intervalMessages: ["To view the OverPlayedList type !op ", "SpecialEvents´dates will be publisthed on Twitter", "User commands:http://bit.ly/NigCom"],
         messageInterval: 1,
         songstats: true,
         commandLiteral: "!",
