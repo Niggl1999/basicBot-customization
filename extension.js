@@ -88,7 +88,7 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,1
-        opLink: null, 
+        opLink: null,
         rulesLink: null,
         themeLink: null,
         fbLink: null,
@@ -99,8 +99,8 @@
         songstats: true,
         commandLiteral: "!",
         blacklists: {
-            NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
-            OP: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleOPlist.json"
+            NSFW: "https://rawgit.com/Niggl1999/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
+            OP: "https://rawgit.com/Niggl1999/basicBot-customization/master/blacklists/ExampleOPlist.json"
         }
     }));
 
