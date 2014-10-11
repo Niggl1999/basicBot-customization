@@ -53,7 +53,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "NigBot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         maximumAfk: 120,
@@ -94,7 +94,7 @@
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: ["To view the OverPlayedList type !op ", "SpecialEvents´dates will be publisthed on Twitter"],
+        intervalMessages: ["To view the OverPlayedList type !op ", "SpecialEvents´dates will be publisthed on Twitter", "User commands: http://bit.ly/NigCom"],
         messageInterval: 1,
         songstats: true,
         commandLiteral: "!",
