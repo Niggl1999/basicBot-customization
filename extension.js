@@ -84,7 +84,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 1,
-        motd: "Doday is A Day",
+        motd: "Thank you for being in Niggl´s Room!",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
@@ -94,7 +94,7 @@
         youtubeLink: null,
         website: null,
         intervalMessages: ["To view the OverPlayedList type !op ", "SpecialEvents´dates will be publisthed on Twitter", "User commands:http://bit.ly/NigCom"],
-        messageInterval: 1,
+        messageInterval: 10,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
